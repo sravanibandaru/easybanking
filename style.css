@@ -1,0 +1,68 @@
+body{
+    width: auto;
+margin-top: 30px;
+background-color: antiquewhite;
+}
+.header .pic img{
+    height:450px;
+}
+.header{
+    display: flex;
+}
+.pic{
+    margin-left: 400px;
+    
+}
+.button{
+    border-radius: 2px;
+}
+ .sec-2{
+     margin-left: 100px;
+     margin-right: 150px;
+ }
+ .fas fa-home{
+     height: 200px;
+ }
+ .card img{
+     height:100px;
+     width:100px;
+ }
+ .sec-3{
+    margin-left: 100px;
+    margin-right: 150px;
+ }
+ .card-deck .card img{
+     height:200px;
+     width:250px;
+ }
+ 
+ .footer{
+    background-color: rgb(25, 5, 44);
+     height:300px;
+    color: azure; 
+     
+ }
+ .footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+     -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center; 
+            margin-top: 50px;
+            margin-left: 30px;
+  }
+ .sec-1 .data-nav{
+     margin-left: 820px;
+     
+ }
+ .data-nav a{
+     color:rgb(15, 2, 2);
+ }
